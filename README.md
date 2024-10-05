@@ -13,4 +13,5 @@ Now as I look forward to graduation, I started learning how to use HTML, JavaScr
 skills to the next level as I hope to move on to companies that are interested into what I have to offer.
 
 Specialties: C, C++, Python
+
 Academic: Data Structures, Program Design, Machine Organization
